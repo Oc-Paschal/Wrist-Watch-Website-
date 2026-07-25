@@ -1,0 +1,347 @@
+{
+  "hero": [
+    {
+      "label": "The Prestige Series",
+      "heading": "Great Leather Collection",
+      "description": "Precision crafted for those who value every second. Explore our exclusive collection of timepieces built to last a lifetime. ",
+      "button": "Shop Now",
+      "image": "https://res.cloudinary.com/dhafvnelk/image/upload/f_auto,q_auto/Rolex_118135_Day-Date_36__-removebg-preview_umr9kv",
+      "video": "/videos/bacvideo.mp4",
+      "size": "w-[400px]",
+      "padding": "pt-10"
+    },
+    {
+      "label": "The Heritage Series",
+      "heading": "Timeless Elegance",
+      "description": " Inspired by generations of craftsmanship, the Heritage Series blends classic design with modern precision. Each piece tells a story of dedication, detail, and the relentless pursuit of perfection.",
+      "button": "Explore Now",
+      "image": "https://res.cloudinary.com/dnse3sik8/image/upload/q_auto/f_auto/v1781776194/SecondImage_hu6mdo.png",
+      "video": "/videos/SecondSlide.mp4",
+      "size": "w-[330px]",
+      "padding": "pt-12"
+    },
+    {
+      "label": "The Shadow Series",
+      "heading": "Dark. Bold. Precise.",
+      "description": "The Shadow Series was born from the dark. Engineered for precision, worn as a statement. Every dial, every hand, every detail is a deliberate act of boldness.",
+      "button": "Discover More",
+      "image": "https://res.cloudinary.com/dnse3sik8/image/upload/q_auto/f_auto/v1781778506/CasioWatch2_s3htzc.png",
+      "video": "/videos/ThirdVideo.mp4",
+      "size": "w-[280px]",
+      "padding": "pt-16"
+    }
+
+  ],
+  "features":[
+    {
+      "icon": "BsTruck",
+      "title": "Free Shipping",
+      "description": "On all orders over $100"
+    },
+    {
+      "icon": "BsHeadset",
+      "title": "24/7 Support",
+      "description": "Get help anytime, anywhere"
+    },
+    {
+      "icon": "BsShieldCheck",
+      "title": "Secure Payment",
+      "description": "Your payment information is safe"
+    }
+
+  ],
+
+  "deals": [
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/q_auto/f_auto/v1781887021/firstWatch_kssz1e.png",
+    "price": 150000,
+    "oldPrice": 200000,
+    "discount": "-25%",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "name": "Casio G-Shock",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/q_auto/f_auto/v1781887059/secondWatch_ocd2iz.png",
+    "price": 40000,
+    "oldPrice": 60000,
+    "discount": "-36%",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "TAG Heuer Carrera",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/q_auto/f_auto/v1781887100/thirdWatch_pbqhy4.png",
+    "price": 39000,
+    "oldPrice": 60000,
+    "discount": "-35%",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Ted Baker Classic",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/q_auto/f_auto/v1781887138/fourthWatch_zyehld.png",
+    "price": 55000,
+    "oldPrice": 75000,
+    "discount": "-27%",
+    "rating": 5
+  }
+],
+
+"specialOffer":{
+  "label": "Special Offer",
+  "heading": "Succelent Gardern gift box",
+  "description": " Discover our exclusive limited edition timepieces, crafted for the few who appreciate true luxury. Each piece is a masterwork of precision and elegance.",
+  "button":"Explore the shop",
+  "image":"https://res.cloudinary.com/dnse3sik8/image/upload/v1782331363/Lastt_laksv3.jpg"
+
+},
+
+"newProducts": [
+  {
+    "id": 1,
+    "badge": "New",
+    "brand": "Rolex",
+    "name": "Rolex Submariner",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782419774/Rolex-removebg-preview_x9guew.png",
+    "price": 150000,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "badge": "New",
+    "brand": "Casio",
+    "name": "Casio G-Shock",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782419843/G-Shock-removebg-preview_rsonml.png",
+    "price": 40000,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "badge": "New",
+    "brand": "Richard Mille",
+    "name": "Richard Mille RM011",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782419884/Richard_Mille-removebg-preview_qsdxqf.png",
+    "price": 150000,
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "badge": "New",
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Nautilus",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782419918/Patek_Philippe-removebg-preview_vp3zn0.png",
+    "price": 160000,
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "badge": "New",
+    "brand": "Cartier",
+    "name": "Santos de Cartier",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782591877/cartier-removebg-preview_pbkt3z.png",
+    "price": 3500000,
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "badge": "New",
+    "brand": "Hublot",
+    "name": "Big Bang Unico",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782592020/Hublot-removebg-preview_emh0vm.png",
+    "price": 5200000,
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "badge": "New",
+    "brand": "Tudor",
+    "name": "Black Bay 58",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782592316/The_GQ_Guide_to_Tudor_watches-removebg-preview_xwdej3.png",
+    "price": 950000,
+    "rating": 5
+  }
+],
+
+"brands": [
+  { "id": 1, "name": "Rolex" },
+  { "id": 2, "name": "Omega" },
+  { "id": 3, "name": "TAG Heuer" },
+  { "id": 4, "name": "Cartier" },
+  { "id": 5, "name": "Hublot" },
+  { "id": 6, "name": "Tudor" },
+  { "id": 7, "name": "Seiko" },
+  { "id": 8, "name": "Casio" },
+  { "id": 9, "name": "Patek Philippe" },
+  { "id": 10, "name": "Audemars Piguet" }
+],
+
+"testimonials": [
+  {
+    "id": 1,
+    "name": "Valentine Ihim",
+    "location": "Imo State, Nigeria",
+    "rating": 5,
+    "review": "Kronos delivered beyond my expectations. The Rolex Submariner I ordered arrived in perfect condition and the customer service was outstanding. Will definitely be buying again.",
+    "images": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782914840/Young_black_Excellence_p8q8mr.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chidimma Okeke",
+    "location": "Abuja, Nigeria",
+    "rating": 5,
+    "review": "Best watch store in Nigeria hands down. Got my Omega Seamaster within 3 days and the packaging was premium. Kronos is the real deal.",
+    "images": " https://res.cloudinary.com/dnse3sik8/image/upload/v1782915023/download_4_g3cjtj.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chiemerie Nwosu",
+    "location": "Port Harcourt, Nigeria",
+    "rating": 4,
+    "review": "Amazing collection and great prices. The TAG Heuer I bought looks even better in person. Kronos has earned a loyal customer.",
+    "images": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782914936/download_3_hy10th.jpg"
+  }
+],
+
+"products": [
+  {
+    "id": 1,
+    "brand": "Rolex",
+    "name": "Submariner Date",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782419774/Rolex-removebg-preview_x9guew.png",
+    "price": 4500000,
+    "rating": 5,
+    "category": "Luxury",
+    "description": "The ultimate divers watch. Precision engineered for the deep."
+  },
+  {
+    "id": 2,
+    "brand": "Omega",
+    "name": "Seamaster 300",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783274565/Omega_Seamaster_300M_wtgarp.png",
+    "price": 2800000,
+    "rating": 5,
+    "category": "Luxury",
+    "description": "Born from the sea. Built for legends."
+  },
+  {
+    "id": 3,
+    "brand": "TAG Heuer",
+    "name": "Carrera Chronograph",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/q_auto/f_auto/v1781887100/thirdWatch_pbqhy4.png",
+    "price": 1200000,
+    "rating": 4,
+    "category": "Premium",
+    "description": "Racing heritage meets modern precision."
+  },
+  {
+    "id": 4,
+    "brand": "Casio",
+    "name": "G-Shock GA2100",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/q_auto/f_auto/v1781887059/secondWatch_ocd2iz.png",
+    "price": 85000,
+    "rating": 4,
+    "category": "Sport",
+    "description": "Tough. Bold. Unstoppable."
+  },
+  {
+    "id": 5,
+    "brand": "Seiko",
+    "name": "Prospex Diver",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783275708/Seiko-removebg-preview_haznja.png",
+    "price": 350000,
+    "rating": 4,
+    "category": "Sport",
+    "description": "Japanese craftsmanship at its finest."
+  },
+  {
+    "id": 6,
+    "brand": "Cartier",
+    "name": "Santos de Cartier",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783276446/Cartier_Santos_Automatic___Timeless_Steel_Icon-removebg-preview_rw0mlb.png",
+    "price": 3500000,
+    "rating": 5,
+    "category": "Luxury",
+    "description": "An icon reinvented for the modern gentleman."
+  },
+  {
+    "id": 7,
+    "brand": "Hublot",
+    "name": "Big Bang Unico",
+    "image": "cloudinary-url",
+    "price": 5200000,
+    "rating": 5,
+    "category": "Luxury",
+    "description": "Where art meets engineering."
+  },
+  {
+    "id": 8,
+    "brand": "Tudor",
+    "name": "Black Bay 58",
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1782592316/The_GQ_Guide_to_Tudor_watches-removebg-preview_xwdej3.png",
+    "price": 950000,
+    "rating": 4,
+    "category": "Premium",
+    "description": "Vintage soul, modern precision."
+  }
+],
+"blogs": [
+  {
+    "id": 1,
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783971964/aeee3bee-7a29-4359-bd24-ea39a9e2f3b6.png",
+    "date": "July 1, 2026",
+    "category": "Luxury",
+    "title": "The History of Rolex: From Humble Beginnings to Global Icon",
+    "description": "How a small watch company founded in 1905 became the most recognisable luxury watch brand in the world.",
+    "link": "https://youtu.be/7M1wT7Xs0zo?si=9fICGXBJiDbqOqsY"
+  },
+  {
+    "id": 2,
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972050/434bc501-60a5-4bc8-9574-a8511f6c08d6.png",
+    "date": "July 3, 2026",
+    "category": "Guide",
+    "title": "How to Choose Your First Luxury Watch",
+    "description": "A complete beginner's guide to buying your first high-end timepiece without making expensive mistakes.",
+    "link": "https://youtu.be/C4BQq3B2yXc?si=fM8tpg7GTfpYe9QE"
+  },
+  {
+    "id": 3,
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972297/a721b41c-adab-439a-8a99-da96d9046b0e.png",
+    "date": "July 5, 2026",
+    "category": "Style",
+    "title": "5 Watches Every Gentleman Should Own",
+    "description": "From the boardroom to the beach — the five timepieces that cover every occasion a modern man will ever face.",
+    "link": "https://www.youtube.com/live/HIPLNWlt52k?si=OtYaYGHVS_KvHsdM"
+  },
+  {
+    "id": 4,
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972362/c7acc973-67c5-40e0-b082-37291b88ebe9.png",
+    "date": "July 7, 2026",
+    "category": "News",
+    "title": "Omega vs Rolex: Which Brand is Worth Your Money?",
+    "description": "We break down the differences between two of the world's greatest watch brands to help you decide.",
+    "link": "https://youtu.be/-wNuZy5Xe1U?si=l6aHqsWZgv6WxPsW"
+  },
+  {
+    "id": 5,
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972438/8f8321b1-248f-4e3d-9acc-5778b94097ed.png",
+    "date": "July 9, 2026",
+    "category": "Guide",
+    "title": "How to Spot a Fake Luxury Watch",
+    "description": "The telltale signs that separate a genuine timepiece from a convincing counterfeit. Don't get fooled.",
+    "link": "https://youtu.be/TzEi95mhVI4?si=d6eWalx-2Cr2RwEd"
+  },
+  {
+    "id": 6,
+    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972509/f77c46e7-fbbe-4ff9-9740-af3880237cf0.png",
+    "date": "July 11, 2026",
+    "category": "Luxury",
+    "title": "Why Patek Philippe Watches Are the Most Expensive in the World",
+    "description": "Understanding the craftsmanship, heritage and exclusivity that makes Patek Philippe the pinnacle of horology.",
+    "link": "https://youtu.be/DQEjog5Ev8k?si=ewemRhJdvoyvq6Vs"
+  }
+]
+
+}
