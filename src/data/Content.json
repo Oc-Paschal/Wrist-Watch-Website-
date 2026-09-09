@@ -290,57 +290,51 @@
 "blogs": [
   {
     "id": 1,
-    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783971964/aeee3bee-7a29-4359-bd24-ea39a9e2f3b6.png",
     "date": "July 1, 2026",
     "category": "Luxury",
     "title": "The History of Rolex: From Humble Beginnings to Global Icon",
     "description": "How a small watch company founded in 1905 became the most recognisable luxury watch brand in the world.",
-    "link": "https://youtu.be/7M1wT7Xs0zo?si=9fICGXBJiDbqOqsY"
+    "link": "https://www.youtube.com/embed/7M1wT7Xs0zo?si=yZPLll8JEPB-XuQ4"
   },
   {
     "id": 2,
-    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972050/434bc501-60a5-4bc8-9574-a8511f6c08d6.png",
     "date": "July 3, 2026",
     "category": "Guide",
     "title": "How to Choose Your First Luxury Watch",
     "description": "A complete beginner's guide to buying your first high-end timepiece without making expensive mistakes.",
-    "link": "https://youtu.be/C4BQq3B2yXc?si=fM8tpg7GTfpYe9QE"
+    "link": "https://www.youtube.com/embed/C4BQq3B2yXc?si=d4W6H7uALa6Lh2J3"
   },
   {
     "id": 3,
-    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972297/a721b41c-adab-439a-8a99-da96d9046b0e.png",
     "date": "July 5, 2026",
     "category": "Style",
     "title": "5 Watches Every Gentleman Should Own",
     "description": "From the boardroom to the beach — the five timepieces that cover every occasion a modern man will ever face.",
-    "link": "https://www.youtube.com/live/HIPLNWlt52k?si=OtYaYGHVS_KvHsdM"
+    "link": "https://www.youtube.com/embed/HIPLNWlt52k?si=OtYaYGHVS_KvHsdM"
   },
   {
     "id": 4,
-    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972362/c7acc973-67c5-40e0-b082-37291b88ebe9.png",
     "date": "July 7, 2026",
     "category": "News",
     "title": "Omega vs Rolex: Which Brand is Worth Your Money?",
     "description": "We break down the differences between two of the world's greatest watch brands to help you decide.",
-    "link": "https://youtu.be/-wNuZy5Xe1U?si=l6aHqsWZgv6WxPsW"
+    "link": "https://www.youtube.com/embed/-wNuZy5Xe1U?si=l6aHqsWZgv6WxPsW"
   },
   {
     "id": 5,
-    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972438/8f8321b1-248f-4e3d-9acc-5778b94097ed.png",
     "date": "July 9, 2026",
     "category": "Guide",
     "title": "How to Spot a Fake Luxury Watch",
     "description": "The telltale signs that separate a genuine timepiece from a convincing counterfeit. Don't get fooled.",
-    "link": "https://youtu.be/TzEi95mhVI4?si=d6eWalx-2Cr2RwEd"
+    "link": "https://www.youtube.com/embed/TzEi95mhVI4?si=d6eWalx-2Cr2RwEd"
   },
   {
     "id": 6,
-    "image": "https://res.cloudinary.com/dnse3sik8/image/upload/v1783972509/f77c46e7-fbbe-4ff9-9740-af3880237cf0.png",
     "date": "July 11, 2026",
     "category": "Luxury",
     "title": "Why Patek Philippe Watches Are the Most Expensive in the World",
     "description": "Understanding the craftsmanship, heritage and exclusivity that makes Patek Philippe the pinnacle of horology.",
-    "link": "https://youtu.be/DQEjog5Ev8k?si=ewemRhJdvoyvq6Vs"
+    "link": "https://www.youtube.com/embed/DQEjog5Ev8k?si=ewemRhJdvoyvq6Vs"
   }
 ]
 
