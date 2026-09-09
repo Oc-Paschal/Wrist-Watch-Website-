@@ -1,16 +1,31 @@
-# React + Vite
+# Kronos — Luxury Watch E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kronos is a modern luxury watch e-commerce website built with React and Tailwind CSS. The project focuses on creating a premium, responsive, and interactive shopping experience for users interested in discovering and purchasing luxury watches.
 
-Currently, two official plugins are available:
+The website includes a responsive navigation system, product browsing and filtering, a shopping cart, product details, blog pages, contact pages, promotional sections, testimonials, and more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+One of the main features is the cart and WhatsApp checkout system, which allows users to add watches to their cart and send their complete order directly to the seller through WhatsApp without requiring a backend or payment gateway.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Responsive design across different screen sizes
+* Product browsing and filtering by brand and category
+* Sorting products by price
+* Shopping cart functionality
+* WhatsApp checkout system
+* Blog section
+* Contact page
+* Animated UI interactions
+* Testimonials and promotional sections
+* React Router navigation
+* Reusable and data-driven React components
 
-## Expanding the ESLint configuration
+## Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* JavaScript
+* Tailwind CSS
+* React Router
+* Framer Motion
+
+This project was built as part of my journey learning and improving my React development skills, with a focus on building real-world, responsive, and interactive web applications.
